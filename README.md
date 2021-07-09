@@ -1,6 +1,6 @@
 # spring-cloud-gateway-demo
 
-[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/organization/repository)
+[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/kayartaya-vinod/spring-cloud-gateway-demo)
 
 
 Code and articles to help you get started with [Spring Cloud Gateway][3].
